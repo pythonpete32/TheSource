@@ -1,2 +1,5 @@
 /sourcecred_data
 .idea
+*.log
+transactionSettings.json
+keys.json
