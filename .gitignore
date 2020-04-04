@@ -3,3 +3,4 @@
 *.log
 transactionSettings.json
 keys.json
+node_modules
